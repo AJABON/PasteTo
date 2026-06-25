@@ -1,6 +1,7 @@
 # TinyToggles
 
-<img width="212" height="92" alt="スクリーンショット 2026-06-24 13 46 36" src="https://github.com/user-attachments/assets/911e573b-03e0-4658-9f8a-58560f16979d" />
+<img width="192" height="112" alt="スクリーンショット 2026-06-25 14 34 18" src="https://github.com/user-attachments/assets/4e2ee897-0f44-464d-bdf0-732e21dda47a" />
+
 
 
 Illustratorの、人によっては頻繁に切り替える項目「コピー元のレイヤーにペースト」および「プレビュ境界を使用」を簡易的に確認・操作するCEPパネルです。
